@@ -175,8 +175,6 @@ nav ul li a:hover::after{
     }
 }
 
-
-
 .landing-text {
     position: absolute;
     top: 50%;
@@ -239,7 +237,8 @@ nav ul li a:hover::after{
 }
 
 .links i {
-    font-size: 5rem;
+    font-size: 4rem;
+    padding: .5rem;
     transition: color 650ms;
 }
 
