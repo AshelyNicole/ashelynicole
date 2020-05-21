@@ -7,7 +7,7 @@
 
 html {
  font-size: 10px;
- font-family: "roboto", sans-serif;
+ font-family: sans-serif;
  color:whitesmoke;
 }
 
@@ -195,7 +195,7 @@ li {
     z-index: 1;
 }
 
-.landing-text h1 {
+/* .landing-text h1 {
     font-size: 15rem;
     font-family: 'Rochester', cursive;
     background: linear-gradient(to top,black, grey, white);
@@ -203,7 +203,7 @@ li {
     -webkit-text-fill-color: transparent;
     padding: 1rem;
     user-select: none;
-}
+} */
 
 .landing-text h6 {
     font-size: 2rem;
@@ -384,7 +384,7 @@ li {
         background-size: cover;
     }
     .landing-text h1 {
-        font size: 15rem;
+        font-size: 15rem;
     }
     .landing-text h6 {
         font-size: 1.7rem;
@@ -422,7 +422,7 @@ li {
 @media screen and (max-width: 600px) {
     .menu-toggler {
         top: 2rem;
-        right; 2rem;
+        right: 2rem;
     }
     .landing-text h1 {
         font-size: 8rem;
